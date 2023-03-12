@@ -48,7 +48,7 @@
 - [Stack Overflow](stackoverflow.com)
 - [cppreference.com](cppreference.com)
 - [CMake官方教程](cmake.org/cmake/help/latest/guide/tutorial/index.html)
-- [C++教程|菜鸟教程]([C++ 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/cplusplus/cpp-tutorial.html))
+- [C++教程|菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 
 ## 🤝 参与贡献
 
