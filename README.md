@@ -6,7 +6,7 @@
 
 ## 🎯目录
 
-- 后续补充
+- [C++20环境配置(Windows11/Linux/MacOS)](https://github.com/Penguin-SAMA/MyCppJourney/blob/main/Professional C%2B%2B/ch0/C%2B%2B20环境配置.md)
 
 ## 📝学习笔记
 
@@ -33,14 +33,21 @@
 ### 视频
 
 - [黑马C++视频](https://www.bilibili.com/video/BV1et411b73Z)
+
 - [The Cherno C++入门教学](https://www.bilibili.com/video/BV1Wd4y1t7fZ)(这是EA的游戏专家，视频讲的很牛，推荐入门之后再看一遍这个)
+
 - 侯捷C++全套(本仓库不提供任何视频资源)
-  - 面向对象上、下
-  - STL与泛型编程
-  - 新标准C++11&14
-  - 内存管理机制
-  - C++的程序的生前死后
-  - C++设计模式
+
+  <details>
+      <ul>
+          <li>面向对象上、下</li>
+          <li>STL与泛型编程</li>
+          <li>新标准C++11&14</li>
+  		<li>内存管理机制</li>
+  		<li>C++的程序的生前死后</li>
+  		<li>C++设计模式</li>
+      </ul>
+  </details>
 
 ### 网站
 
