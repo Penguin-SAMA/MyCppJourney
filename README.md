@@ -6,7 +6,7 @@
 
 ## 🎯目录
 
-- [C++20环境配置(Windows11/Linux/MacOS)](https://github.com/Penguin-SAMA/MyCppJourney/blob/main/Professional C%2B%2B/ch0/C%2B%2B20环境配置.md)
+- [C++20环境配置(Windows11/Linux/MacOS)](https://github.com/Penguin-SAMA/MyCppJourney/blob/main/Professional%20C%2B%2B/ch0/C%2B%2B20环境配置.md)
 
 ## 📝学习笔记
 
